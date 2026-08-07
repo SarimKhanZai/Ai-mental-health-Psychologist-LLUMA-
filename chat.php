@@ -16,7 +16,7 @@ header('Content-Type: application/json');
 // -------------------------------
 // CONFIG
 // -------------------------------
-$API_KEY = "AIzaSyC95gigurtGj26Qp8FNrdFdsuZq3n833VI";
+$API_KEY = "Your Api key";
 $MODEL   = "gemini-1.5-flash";
 
 // -------------------------------
